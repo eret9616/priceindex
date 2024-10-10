@@ -1,6 +1,3 @@
-process.env.NODE_NO_WARNINGS = "1";
-process.env.NODE_NO_WARNINGS = "1";
-
 const yahooFinance = require("yahoo-finance2").default;
 
 function formatDateToCST(isoTime) {
